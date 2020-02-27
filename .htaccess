@@ -1,4 +1,2 @@
-
-
 RewriteEngine On
-RewriteRule ^article.*$ /tagi [R=301,NC,L]
+RewriteRule ^article.*$ / [R=301,NC,L]
