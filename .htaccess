@@ -1,2 +1,0 @@
-RewriteEngine On
-RewriteRule ^article.*$ / [R=301,NC,L]
